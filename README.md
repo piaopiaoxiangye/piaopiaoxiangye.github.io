@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>菜鸟教程(runoob.com)</title>
+</head>
+<body>
+
 <h1><a name="神经网络与深度学习" class="md-header-anchor"></a><span>神经网络与深度学习</span></h1>
 <p>
   <span>作者：</span>
@@ -67,3 +75,6 @@
 
 <p><span>非常感谢！</span></p><p><span>致谢列表：感谢王利锋、林同茂、张钧瑞、李浩、胡可鑫、韦鹏辉、徐国海、侯宇蓬、任强、王少敬、肖耀、李鹏等同学指出书中的错误。</span>
 </p>
+
+</body>
+</html>
